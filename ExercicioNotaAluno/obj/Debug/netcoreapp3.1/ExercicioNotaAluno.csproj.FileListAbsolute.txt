@@ -1,0 +1,13 @@
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.exe
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.deps.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.runtimeconfig.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.runtimeconfig.dev.json
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\bin\Debug\netcoreapp3.1\ExercicioNotaAluno.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.csproj.AssemblyReference.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.AssemblyInfoInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.AssemblyInfo.cs
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.csproj.CoreCompileInputs.cache
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.dll
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.pdb
+C:\Users\mariane.santos\Documents\ws-vs2019\ExercicioNotaAluno\ExercicioNotaAluno\obj\Debug\netcoreapp3.1\ExercicioNotaAluno.genruntimeconfig.cache
