@@ -24,11 +24,11 @@ namespace ExercicioNotaAluno
         {
             if (MediaFinal > 60.0)
             {
-                return "Aprovado";
+                return "APROVADO!";
             }
             else
             {
-                return "Reprovado";
+                return "REPROVADO!";
             }
         }
 
